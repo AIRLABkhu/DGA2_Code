@@ -12,7 +12,8 @@ Our experiments on the DMControl-GB, Adroit, and Procgen environments demonstrat
 
 
 ## Framework
-[main_architecture.pdf](https://github.com/user-attachments/files/21153914/main_architecture.pdf)
+![architecture](https://github.com/user-attachments/assets/78c3c06f-40e7-4985-a261-a0de35ab0ba3)
+
 
 ## Experimental Results
 ### DMControl-GB
