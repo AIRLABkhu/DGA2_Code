@@ -1,5 +1,5 @@
 # DGA2
- Official Pytorch Implementation ``Fourier Guided Adaptive Adversarial Augmentation for Generalization in Visual Reinforcement Learning'' 
+ Official Pytorch Implementation for Diffusion Guided Adaptive Augmentation for Generalization in Visual Reinforcement Learning
 
 ## Abstract
 > Reinforcement learning (RL) has proven its potential in complex decision-making tasks. Yet, many RL systems rely on manually crafted state representations, requiring effort in feature engineering. 
